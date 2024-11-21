@@ -1,7 +1,9 @@
 # [C242-AP] Automatic Plate Number Recognition (APNR)
 
-## Members
+## Project Description
+Our project focuses on automating vehicle license plate detection to streamline the process of tracking and managing vehicles. Currently, manually recording each vehicle's information is time-consuming and prone to human error. This problem is especially relevant in high-traffic areas such as parking lots, toll booths, or security checkpoints, where efficiency and accuracy are crucial. Our main focus is improving accuracy in varying conditions, such as lighting, weather, and camera angles while ensuring fast data processing.
 
+## Members
 |No.| ID          | Name                     |University|Learning Path|
 |---|-------------|--------------------------|----------|-------------|
 |1.| M180B4KX3719 | Rayya Andina Nathania    |Universitas Airlangga|Machine Learning
